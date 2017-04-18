@@ -1,0 +1,30 @@
+{
+  "name": "kodilla-zadanie8_3",
+  "version": "1.0.0",
+  "description": "example grunt project",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosiaen/test2.git"
+  },
+  "author": "Gosia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gosiaen/test2/issues"
+  },
+  "homepage": "https://github.com/gosiaen/test2#readme",
+  "keywords": [
+    "grunt"
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "dependencies": {}
+}
